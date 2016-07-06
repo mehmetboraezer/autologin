@@ -11,4 +11,4 @@ fi
 
 sudo /usr/bin/defaults write /Library/Preferences/com.apple.loginwindow.plist "autoLoginUser" $username
 
-echo "$passwd" | ./keygen.py 
+echo "$passwd" | sudo ./keygen.py 
