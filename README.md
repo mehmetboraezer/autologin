@@ -1,8 +1,8 @@
 # autologin
-Enable a user to auto-login himself in Mac OSX
+Enable a user to auto-login himself in Mac OSX.
 
 ## To run
 
 ```bash
-./autologin.sh <USER> <PASSWD>
+./autologin.sh <USERNAME> <PASSWORD>
 ```
