@@ -1,4 +1,4 @@
-# autologin
+# autologin-for-osx
 Enable a user to auto-login himself in Mac OSX.
 
 ## Quick Start
