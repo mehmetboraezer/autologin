@@ -4,5 +4,7 @@ Enable a user to auto-login himself in Mac OSX.
 ## To run
 
 ```bash
-./autologin.sh <USERNAME> <PASSWORD>
+git clone https://github.com/mehmetboraezer/autologin && cd autologin/source
+sudo chmod +x autologin.sh keygen.sh
+sudo ./autologin.sh <USERNAME> <PASSWORD>
 ```
